@@ -37,4 +37,4 @@ This is primarily for non-bug related issues: Please start a *new thread* in an 
 
 
 *Happy Coding!*
-see: https://www.mikrocontroller.net/topic/452736
+see: https://www.mikrocontroller.net/topic/452736 & http://electronicsworld.ru/arduino-can-bus-module-1st-network-tutorial/arduino-can-bus-network-connection/ for wiring and sample code.
